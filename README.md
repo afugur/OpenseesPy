@@ -3,3 +3,4 @@ The modal will analyze lineer time history analysis, modal analysis and gravity 
 
 # --------------------- The Modal -------------------
 
+![alt text](https://github.com/afugur/OpenseesPy/blob/main/model.png)
